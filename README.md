@@ -1,1 +1,1 @@
-<p align=center>Portfolio pour le cours de Documentation de collections multimedia - Raphaël Dumont
+<p align=center>Portfolio pour le cours de Documentation de collections multimedias - Raphaël Dumont
