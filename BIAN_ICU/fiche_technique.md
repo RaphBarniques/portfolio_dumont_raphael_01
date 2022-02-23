@@ -3,6 +3,8 @@
 
 BIAN 2021, Arsenal (Montréal), visité le 9 février 2022
 
+![général](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/installation_cartel.jpg)
+
 ## L'oeuvre
 
 *I.C.U. (Intensive Care Unit) est une installation robotique mettant en scène des machines alitées, maladives et souffrantes, réagissant à la présence des spectateurs dans une allégorie médicale disjonctée où les créatures mécaniques et leur système de support vital s’animent avec peine et avec douleur, s’étirent, se recroquevillent, se disloquent et reprennent forme. Cette pièce a été conçue autour des thèmes plus généraux d'une "ontologie de la machine" et d'une "esthétique des comportements" dans une perspective de construction de l'artificiel basée sur l'aspect visuel des machines et la programmation de leurs réactions. À travers la métaphore de l’unité des soins intensifs, l'installation propose l’aliénation (la mise en "étrange") par l’appropriation artistique des technologies de la robotique et de l'automation. La force du simulacre est le produit de la stimulation du réflexe incontournable d'anthropomorphisme et de projection de nos sensations internes sur le monde extérieur.*
@@ -28,19 +30,39 @@ L'oeuvre couvre un plutôt grandes surface de plancher. Disposés en forme de cr
 
 Par unité : 
 - Robot squelettique
+
+![robot](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/squelette.jpg)
+
 - Système pneumatique et tubes de plastiques
+
+![pneumatique](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/squelette_bras.jpg)
+
 - Cadre lumineux (LED)
+
+![cadre](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/cadre_led_cable.jpg)
+
 - Moniteur avec écran
 
 Pour l'ensemble :
 - Huit projecteur lumineux
+
+![projecteurs](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/Cablage_projecteurs.jpg)
+
 - Un ordinateur de contrôle central
+
+![ordi](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/programme_ordinateur_master.jpg)
 
 
 **Autres éléments nécessaire**
 
 - Cable de métal pour soutenir les cadres
+
+![cables](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/cadre_led_cable.jpg)
+
 - Cache-fils
+
+![cache-fils](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/fils.jpg)
+
 - Rideaux noir pour isoler l'oeuvre
 
 
@@ -49,3 +71,5 @@ Pour l'ensemble :
 ❤️ - Ce que j'ai aimé : L'ambiance créée. Dès qu'on entre dans l'espace, on est tout de suite frappé par l'ambiance lumineuse et sonore. Cela devient d'autant plus évident les des phases d'agitations.
   
 🤔 - Ce que j'aimerais améliorer : À la base, les robots devaient être interactif et répondre aux actions des visiteurs. Cependant cela fut abandonné dlors de la production. Je trouve que cela serait un atout très intéressant.
+
+![autoportrait](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/8ce2bee3a3cfd210f9a9ac9394899294874bf371/BIAN_ICU/medias/photos/autoportrait.jpg)
