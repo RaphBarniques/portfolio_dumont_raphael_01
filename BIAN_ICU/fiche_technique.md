@@ -17,7 +17,7 @@ Extrait vidéo de l'oeuvre :
 
 Cliquez sur la miniature ci-dessous pour être redirigé vers la vidéo sur YouTube.com
 
-[<img src="https://i9.ytimg.com/vi/inoEF9ZBuwE/mq1.jpg?sqp=CLT52JAG&rs=AOn4CLBj2CzSmkatB8MaVf0p_5p-1y7E7Q">](https://youtu.be/inoEF9ZBuwE)
+[<img src="https://img.youtube.com/vi/inoEF9ZBuwE/0.jpg">](https://youtu.be/inoEF9ZBuwE)
 
 
 **Mise en espace**
