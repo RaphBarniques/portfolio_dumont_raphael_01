@@ -11,8 +11,9 @@ Configuration du possible, Salle Alfred-Pellan, Maison des Arts de Laval, visit�
 
 **Mise en place**
 
-![Installation]()
-L'installation qui prend la majorité de l'espace se présente comme une boite avec quatre murs en bois. Elle comporte deux ouvertures pour permettre au public d'entrer et de ressortir en suivant le chemin qui les dirige vers les autres oeuvres. Étant un installation qui mise sur l'apect sonore, il n'y a pas grand chose à regarder. Par contre, dès qu'on y entre, on est plongé dans un atmosph<ere sonore qui évoque des bruits d'eau, de nature, de grottes, etc. L'interacteur est invité à s'approcher des murs et à y coller son oreille pour découvrir plus en profondeur les sons qui y s'en absorbé. En effet, les sons sont transmis au travers des murs pas les transducteurs. L'inclinaison des murs a pour effet d'éviter de faire rebondir trop les sons dans la piece et donc avoir un son plus précis. On peut même profiter de l'expérience à l'extérieur de l'espace puisque certaines fréquences s'étendemt pour englober les autres oeuvres.
+L'installation qui prend la majorité de l'espace se présente comme une boite avec quatre murs en bois. Elle comporte deux ouvertures pour permettre au public d'entrer et de ressortir en suivant le chemin qui les dirige vers les autres oeuvres. Étant un installation qui mise sur l'apect sonore, il n'y a pas grand chose à regarder. Par contre, dès qu'on y entre, on est plongé dans un atmosph<ere sonore qui évoque des bruits d'eau, de nature, de grottes, etc. L'interacteur est invité à s'approcher des murs et à y coller son oreille pour découvrir plus en profondeur les sons qui y s'en absorbé. En effet, les sons sont transmis au travers des murs pas les transducteurs. L'inclinaison des murs a pour effet d'éviter de faire rebondir trop les sons dans la piece et donc avoir un son plus précis. On peut même profiter de l'expérience à l'extérieur de l'espace puisque certaines fréquences s'étendent pour englober les autres oeuvres.
+
+![Installation](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/0a03254d52d42f2a9cf853699cce12792148d2ea/CdS_L'en%20de%C3%A7%C3%A0/medias/installation.jpeg)
 
 
 **Composantes**
