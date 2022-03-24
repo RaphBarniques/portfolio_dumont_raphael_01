@@ -7,7 +7,7 @@ Configuration du possible, Salle Alfred-Pellan, Maison des Arts de Laval, visit�
 
 *"C’est sur le vaste territoire compris entre Sept-Îles et Kegaska, sur la Côte-Nord que furent captés les paysages sonores singuliers au cœur de cette œuvre. L’usage d’hydrophones, soit des micros pouvant enregistrer sous l’eau, ainsi que de géophones spécialement conçus par les artistes pour capter les vibrations du sol et les traduire en sons, fut essentiel au projet. Diffusée via des transducteurs – qui ici transforment les parois de bois en membranes de transmission sonore –, la composition qui découle de ces enregistrements permet d’entendre une faune marine complexe, notamment une colonie d’oursins, et des ondes terrestres en bordure du Saint-Laurent, mais aussi des sons que ni les artistes, ni les pêcheurs, ni d’autres habitants rencontrés dans la région ne furent capables d’identifier avec précision. Cette part de mystère est soutenue par les détecteurs de mouvement qui activent la bande-son, avec des moments de silence lorsque les gestes se font absents. Le mode d’attention particulier que ces silences convoquent fait partie intégrante de l’œuvre; il s’agit d’un motif que le duo traite de longue date. — Aseman Sabet"* - Source: Cartel de l'exposition
 
-![Cartel](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/558c7efdacb510442cce0873e1165922e64c5dc6/CdS_L'en%20de%C3%A7%C3%A0/medias/cartel.png)
+![Cartel](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/6d0a5052a03d5c9d0f3074e04eee134b6f7fbcd6/CdS_L'en%20de%C3%A7%C3%A0/medias/cartel.png)
 
 **Mise en place**
 
