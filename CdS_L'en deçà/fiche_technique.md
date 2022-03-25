@@ -18,14 +18,23 @@ L'installation qui prend la majorité de l'espace se présente comme une boite a
 
 **Composantes**
 
-Liste des composantes fonctionnelle
+Liste des composantes fonctionnelles:
+
+- Transducteurs : Pour produire le son au travers des murs en bois.
+- Amplificateurs : pour amplifier le son.
+- Interface audio : pour gérer la spatialisation du son.
+- Détecteur de mouvement : Pour activer l'oeuvre lorsqu'il y a du public.
+- Ordinateur : Gérer l'ensemble des signaux de l'oeuvres.
 
 **Autre éléments nécessaire**
 
-Liste des autres éléments nécessaire
+Liste des autres éléments nécessaire: 
+
+- Structure et murs.
+- petite planche en bois pour cacher les systèmes.
 
 **Expérience**
 
-❤️ - Ce que j'ai aimé
+❤️ - L'utilisation à sa pleine capacité du sens de l'ouïe et même du toucher. Il est très fréquent de voir des installations qui reposent en grande majorité, voire en totalité, sur le visuel. Je trouve rafraîchissant de pouvoir explorer cet univers. Je trouve également que cela rend l'expérience tellement plus immersive puisque l'on RESSENT l'oeuvre.
   
-🤔 - Ce que j'aimerais améliorer
+🤔 - J'aurais aimé voire plus d'indications claires pour inviter les gens à vraiment se coller sur les murs pour pouvoir vivre l'expérience au maximum.
