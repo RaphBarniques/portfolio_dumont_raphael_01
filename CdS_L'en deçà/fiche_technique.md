@@ -15,6 +15,9 @@ L'installation qui prend la majorité de l'espace se présente comme une boite a
 
 ![Installation](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/0a03254d52d42f2a9cf853699cce12792148d2ea/CdS_L'en%20de%C3%A7%C3%A0/medias/installation.jpeg)
 
+Croquis d l'oeuvre dans l'espace
+![Croquis](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/a8139a139280aaa6f9dc5ee92931b9f95265c09a/CdS_L'en%20de%C3%A7%C3%A0/medias/croquis.PNG)
+
 
 **Composantes**
 
