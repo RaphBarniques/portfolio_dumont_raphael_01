@@ -24,6 +24,7 @@ Liste des composantes fonctionnelles:
 ![Transducteur](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/53be782a124e1cfa16b0f54ae568a138aa2ef52d/CdS_L'en%20de%C3%A7%C3%A0/medias/transducteurs.jpeg)
 - Amplificateurs : pour amplifier le son.
 - Interface audio : pour gérer la spatialisation du son.
+![Système](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/a8c4a4069f0014812ae439557426e1f776fddf13/CdS_L'en%20de%C3%A7%C3%A0/medias/systeme_01.jpeg)
 - Détecteur de mouvement : Pour activer l'oeuvre lorsqu'il y a du public.
 ![Capteur de mouvement](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/706a51568a386cdad54697e6c3c3ffa03df18eda/CdS_L'en%20de%C3%A7%C3%A0/medias/capteur_mouvement.jpeg)
 - Ordinateur : Gérer l'ensemble des signaux de l'oeuvres.
@@ -33,7 +34,7 @@ Liste des composantes fonctionnelles:
 Liste des autres éléments nécessaire: 
 
 - Structure et murs.
-- petite planche en bois pour cacher les systèmes.
+- Petite planche en bois pour cacher les systèmes.
 
 **Expérience**
 
