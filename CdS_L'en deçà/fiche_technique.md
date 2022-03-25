@@ -2,6 +2,7 @@
 *Béchard-Hudon, 2021*
 
 Configuration du possible, Salle Alfred-Pellan, Maison des Arts de Laval, visitée le 16 mars 2022.
+[Voir un extrait](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/659afcb115b5a737d9bd94d2406a1fa2158f6592/CdS_L'en%20de%C3%A7%C3%A0/medias/extrait.MOV)
 
 ## L'oeuvre
 
