@@ -21,6 +21,7 @@ L'installation qui prend la majorité de l'espace se présente comme une boite a
 Liste des composantes fonctionnelles:
 
 - Transducteurs : Pour produire le son au travers des murs en bois.
+![Transducteur](https://github.com/RaphBarniques/portfolio_dumont_raphael_01/blob/53be782a124e1cfa16b0f54ae568a138aa2ef52d/CdS_L'en%20de%C3%A7%C3%A0/medias/transducteurs.jpeg)
 - Amplificateurs : pour amplifier le son.
 - Interface audio : pour gérer la spatialisation du son.
 - Détecteur de mouvement : Pour activer l'oeuvre lorsqu'il y a du public.
