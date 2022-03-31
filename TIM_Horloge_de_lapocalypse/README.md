@@ -1,1 +1,1 @@
-
+<p align=center>Vous trouverez ici toutes les informations par rapport à l'oeuvre L'horloge de l'apocalypse de Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco de l'exposition Moebius dans le cadre de la semaine des arts.
